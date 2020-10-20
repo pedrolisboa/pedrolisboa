@@ -3,10 +3,6 @@
 <!--
 **pedrolisboa/pedrolisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Code ranking:
-
-[![pedrolisboa's github stats](https://github-readme-stats.vercel.app/api?username=pedrolisboa&theme=graywhite)](https://github.com/pedrolisboa)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Code ranking:
+
+[![pedrolisboa's github stats](https://github-readme-stats.vercel.app/api?username=pedrolisboa&theme=graywhite)](https://github.com/pedrolisboa)
+
